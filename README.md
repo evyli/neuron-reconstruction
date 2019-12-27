@@ -2,6 +2,8 @@
 
 This is the implementation for my master thesis with the goal to reconstruct a neuron model with given membrane potential and current data.
 
+This project is no longer maintained.
+
 ## JDK
 
 A compiler compliance level equal or greater than 1.8 is required to run the prototype.
