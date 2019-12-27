@@ -29,6 +29,8 @@ Please put the data in the following folder structure in the current working dir
 After that you can run the tests in the package `de.hsmannheim.masterthesis.neuronreconstruction.tests.contestdata`.
 
 ## License
+Copyright (C)  2016 Leah Lackner
+
 This software may be modified and distributed under the terms of the MIT license.  See the LICENSE file for details.
 
 
